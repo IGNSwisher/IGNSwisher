@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-ignswisher&color=lightgrey)
+![](https://komarev.com/ghpvc/?username=your-github-ignswisher&color=blue)
 
 
 - 👋 Hey Hey Swisher
